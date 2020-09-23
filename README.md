@@ -1,3 +1,4 @@
-# rmarkdown_website
-tutorial from:
-https://www.emilyzabor.com/tutorials/rmarkdown_websites_tutorial.html
+rmarkdown_website
+
+Tutorial:
+https://bookdown.org/yihui/rmarkdown/rmarkdown-site.html#a-simple-example
